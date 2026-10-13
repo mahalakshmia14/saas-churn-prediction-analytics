@@ -1,0 +1,1102 @@
+{
+  "A-271f46": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.9182197440810094
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 2.112115963160035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 2.1121159631600284
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -2.0853401576466735
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.480491401146933
+    }
+  ],
+  "A-7a0d69": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.9182197440810094
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 2.112115963160035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 2.1121159631600284
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -2.0853401576466735
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.480491401146933
+    }
+  ],
+  "A-b2225d": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.9182197440810094
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 2.112115963160035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 2.1121159631600284
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -2.0853401576466735
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.480491401146933
+    }
+  ],
+  "A-eafc6e": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.9182197440810094
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 2.112115963160035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 2.1121159631600284
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -2.0853401576466735
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.480491401146933
+    }
+  ],
+  "A-6f50ae": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.9182197440810094
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 2.112115963160035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 2.1121159631600284
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -2.0853401576466735
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.480491401146933
+    }
+  ],
+  "A-f17767": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.5499873323713973
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.5183484233158484
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.5183484233158435
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.277185997290122
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": 1.2768968166558603
+    }
+  ],
+  "A-249769": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.2942507187129078
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.6081456135627663
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.3487005547889377
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.3487005547889337
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.277185997290122
+    }
+  ],
+  "A-180abf": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.470514779796155
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.8467428856047199
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.687996291842759
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6879962918427533
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.3090191517669316
+    }
+  ],
+  "A-e83938": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.7253887634656566
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.8467428856047199
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.687996291842759
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6879962918427533
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.3090191517669316
+    }
+  ],
+  "A-8adedc": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.584072276295263
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.8467428856047199
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.6031723575793035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6031723575792984
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.2747247018909313
+    }
+  ],
+  "A-9ee962": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.1808480532374643
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.3487005547889377
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.3487005547889337
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.13754690238693
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.0060212420268266
+    }
+  ],
+  "A-425e76": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.9804524711802152
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.1790526862620274
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.1790526862620236
+    },
+    {
+      "feature": "num__escalation_rate",
+      "shap_value": 1.1338170711917863
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.1309510694788596
+    }
+  ],
+  "A-0baac2": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.826559778071601
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.8576441603696694
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.8576441603696634
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.8467428856047199
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.3776080515189322
+    }
+  ],
+  "A-d535f6": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.6784656188813605
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.369548341520813
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.0060212420268266
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -0.9660746530069285
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 0.9245808834716618
+    }
+  ],
+  "A-439b2f": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.5358092343472585
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.6031723575793035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6031723575792984
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.369548341520813
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.2747247018909313
+    }
+  ],
+  "A-902ef7": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.7036903014349547
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.8467428856047199
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.772820226106214
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.7728202261062083
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.343313601642932
+    }
+  ],
+  "A-ff79f2": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.1191717239697043
+    },
+    {
+      "feature": "num__has_satisfaction_data",
+      "shap_value": 0.8884487804484735
+    },
+    {
+      "feature": "num__total_error_count",
+      "shap_value": 0.7471037855141216
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 0.585285146417841
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 0.5852851464178391
+    }
+  ],
+  "A-10b8da": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.644146713477105
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.6081456135627663
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.6031723575793035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6031723575792984
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.277185997290122
+    }
+  ],
+  "A-812c5b": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.612406353625874
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.8467428856047199
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.687996291842759
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6879962918427533
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.3090191517669316
+    }
+  ],
+  "A-1d5444": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.552079266135762
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.0060212420268266
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 0.9245808834716618
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 0.9245808834716589
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -0.794602403626927
+    }
+  ],
+  "A-e693b6": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.5659349278088452
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.772820226106214
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.7728202261062083
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.369548341520813
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.343313601642932
+    }
+  ],
+  "A-3be56b": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.5068115954866568
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.6031723575793035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6031723575792984
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.369548341520813
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.2404302520149308
+    }
+  ],
+  "A-13466a": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.505528709862008
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.433524489052393
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.4335244890523886
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.1718413522629303
+    },
+    {
+      "feature": "num__total_error_count",
+      "shap_value": 1.1429203606209408
+    }
+  ],
+  "A-7df7a7": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.5279919825970927
+    },
+    {
+      "feature": "num__prior_30d_usage",
+      "shap_value": 1.146567152210124
+    },
+    {
+      "feature": "num__total_error_count",
+      "shap_value": 0.9944891449558836
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -0.794602403626927
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 0.7549330149447513
+    }
+  ],
+  "A-08e34e": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.4373367032966105
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.6081456135627663
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.433524489052393
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.4335244890523886
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": -1.2658322726564846
+    }
+  ],
+  "A-659280": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 0.6574213739667092
+    },
+    {
+      "feature": "cat__referral_source_event",
+      "shap_value": 0.5897981943834081
+    },
+    {
+      "feature": "num__prior_30d_usage",
+      "shap_value": -0.5601549445912056
+    },
+    {
+      "feature": "num__auto_renew_flag",
+      "shap_value": 0.47253980204379503
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -0.46369173150023546
+    }
+  ],
+  "A-0f6450": [
+    {
+      "feature": "num__tickets_per_30_tenure_days",
+      "shap_value": 7.1492650204901835
+    },
+    {
+      "feature": "num__usage_per_tenure_day",
+      "shap_value": -4.2492977761609945
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": -1.175020519466758
+    },
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 0.9756433650326745
+    },
+    {
+      "feature": "num__tenure_days",
+      "shap_value": 0.7390331529721607
+    }
+  ],
+  "A-671f31": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.9571835801952013
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.277185997290122
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": 1.2768968166558603
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.009404817735117
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.0094048177351138
+    }
+  ],
+  "A-7f6b86": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.0252428744546003
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.433524489052393
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.4335244890523886
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.13754690238693
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.1309510694788596
+    }
+  ],
+  "A-798a3f": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.123980830117245
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.3487005547889377
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.3487005547889337
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.1309510694788596
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.0689580026349295
+    }
+  ],
+  "A-7c4956": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.3439957147445583
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.3487005547889377
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.3487005547889337
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.13754690238693
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.1309510694788596
+    }
+  ],
+  "A-4bfa33": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.187562798994099
+    },
+    {
+      "feature": "num__tenure_days",
+      "shap_value": 0.685377521774921
+    },
+    {
+      "feature": "num__recent_30d_usage",
+      "shap_value": 0.6616081633715992
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": -0.6301500003283984
+    },
+    {
+      "feature": "cat__referral_source_event",
+      "shap_value": 0.5897981943834081
+    }
+  ],
+  "A-7641d3": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.398805897121806
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.6031723575793035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6031723575792984
+    },
+    {
+      "feature": "num__escalation_rate",
+      "shap_value": 1.5512352403322804
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.369548341520813
+    }
+  ],
+  "A-55f257": [
+    {
+      "feature": "num__recent_30d_usage",
+      "shap_value": 1.0647819375163883
+    },
+    {
+      "feature": "num__prior_30d_usage",
+      "shap_value": 0.6214218916558687
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": -0.5174259990070768
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": -0.5174259990070752
+    },
+    {
+      "feature": "num__auto_renew_flag",
+      "shap_value": 0.47253980204379503
+    }
+  ],
+  "A-544d0a": [
+    {
+      "feature": "num__prior_30d_usage",
+      "shap_value": 1.540426097625815
+    },
+    {
+      "feature": "num__escalation_rate",
+      "shap_value": 1.1338170711917863
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": 0.6209672895529469
+    },
+    {
+      "feature": "num__auto_renew_flag",
+      "shap_value": 0.47253980204379503
+    },
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": -0.46209540199859034
+    }
+  ],
+  "A-32fb14": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.2024486959835612
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.0060212420268266
+    },
+    {
+      "feature": "num__has_satisfaction_data",
+      "shap_value": 0.8884487804484735
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": 0.7794063426599669
+    },
+    {
+      "feature": "num__total_error_count",
+      "shap_value": 0.697626713625769
+    }
+  ],
+  "A-3932db": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.2247979452405278
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.3487005547889377
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.3487005547889337
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.1309510694788596
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.0689580026349295
+    }
+  ],
+  "A-fabe19": [
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.0060212420268266
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": 0.9301610317496315
+    },
+    {
+      "feature": "num__tenure_days",
+      "shap_value": 0.6219663212690925
+    },
+    {
+      "feature": "num__auto_renew_flag",
+      "shap_value": 0.47253980204379503
+    },
+    {
+      "feature": "num__recent_30d_usage",
+      "shap_value": 0.46002127629920453
+    }
+  ],
+  "A-354f12": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.8452407500857377
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.1309510694788596
+    },
+    {
+      "feature": "num__total_error_count",
+      "shap_value": 1.043966216844236
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.0060212420268266
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -0.9660746530069285
+    }
+  ],
+  "A-9c18c4": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.0270123718679094
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.009404817735117
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.0094048177351138
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -0.9660746530069285
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -0.7348564867635311
+    }
+  ],
+  "A-1e50e0": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.6882956739391655
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.687996291842759
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6879962918427533
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.6081456135627663
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.3090191517669316
+    }
+  ],
+  "A-bcf87c": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.6281012987550516
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.1309510694788596
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": -1.0115593637252502
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 0.9245808834716618
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 0.9245808834716589
+    }
+  ],
+  "A-b30291": [
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": -1.1320044258505717
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": 0.8921320448162426
+    },
+    {
+      "feature": "num__has_satisfaction_data",
+      "shap_value": 0.8884487804484735
+    },
+    {
+      "feature": "num__prior_30d_usage",
+      "shap_value": 0.8402324168868084
+    },
+    {
+      "feature": "cat__referral_source_event",
+      "shap_value": 0.5897981943834081
+    }
+  ],
+  "A-7dacce": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.988923940046432
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.369548341520813
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.0942287519985723
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.094228751998569
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -1.0346635527589292
+    }
+  ],
+  "A-42e5e1": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.8990998276033317
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.369548341520813
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.009404817735117
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.0094048177351138
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.0060212420268266
+    }
+  ],
+  "A-8ae05d": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.2052135356918565
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.0060212420268266
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -0.794602403626927
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 0.7549330149447513
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 0.7549330149447488
+    }
+  ],
+  "A-139c3b": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.8048298529092925
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.1309510694788596
+    },
+    {
+      "feature": "num__usage_event_count",
+      "shap_value": -0.897485753254928
+    },
+    {
+      "feature": "num__total_error_count",
+      "shap_value": 0.8955350011791787
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 0.8397569492082065
+    }
+  ],
+  "A-098560": [
+    {
+      "feature": "num__escalation_rate",
+      "shap_value": 2.38607157861327
+    },
+    {
+      "feature": "num__prior_30d_usage",
+      "shap_value": 1.059042942117748
+    },
+    {
+      "feature": "num__avg_resolution_time_hours",
+      "shap_value": 0.40904074340173663
+    },
+    {
+      "feature": "num__escalation_count",
+      "shap_value": -0.3640128342480857
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": 0.3498025342896513
+    }
+  ],
+  "A-038089": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 1.828430524659302
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.6081456135627663
+    },
+    {
+      "feature": "num__beta_feature_events",
+      "shap_value": -1.277185997290122
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": 1.2768968166558603
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.1790526862620274
+    }
+  ],
+  "A-0dbdc6": [
+    {
+      "feature": "num__total_usage_duration_secs",
+      "shap_value": 2.5486380905937494
+    },
+    {
+      "feature": "num__beta_feature_rate",
+      "shap_value": -1.9923262981742975
+    },
+    {
+      "feature": "num__subscription_count",
+      "shap_value": -1.6081456135627663
+    },
+    {
+      "feature": "num__distinct_features_used",
+      "shap_value": 1.6031723575793035
+    },
+    {
+      "feature": "num__feature_adoption_rate",
+      "shap_value": 1.6031723575792984
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+,mean_abs_shap
+num__total_usage_duration_secs,1.097325411582633
+num__subscription_count,0.7321118695335301
+num__beta_feature_events,0.6095783698318885
+num__usage_event_count,0.5599474315733776
+num__prior_30d_usage,0.5457834692940373
+num__distinct_features_used,0.5399213063737451
+num__feature_adoption_rate,0.5399213063737434
+num__total_error_count,0.5311660529645963
+num__beta_feature_rate,0.46667658789304983
+num__tenure_days,0.4387223900498246
+num__total_usage_count,0.30999050132829387
+num__recent_30d_usage,0.27359533582975054
+num__high_urgent_tickets,0.2718860539804012
+cat__referral_source_event,0.25558943052189037
+num__escalation_rate,0.19710899389572153
